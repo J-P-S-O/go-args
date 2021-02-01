@@ -1,0 +1,5 @@
+package goargs
+
+func main(){
+
+}

@@ -1,3 +1,3 @@
-module go-args
+module goargs
 
 go 1.15
