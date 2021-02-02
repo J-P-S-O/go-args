@@ -1,5 +1,0 @@
-package goargs
-
-func main(){
-
-}
